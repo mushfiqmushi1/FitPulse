@@ -27,6 +27,12 @@ FitPulse is a high-performance, modern cross-platform mobile application designe
 
 ---
 
+### Contact mail
+
+mushfiqmushi1@gmail.com
+
+---
+
 ### Getting Started
 
 Follow these steps to set up and run the project locally:
